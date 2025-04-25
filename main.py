@@ -3,8 +3,8 @@ from tkinter import messagebox, ttk
 import oracledb
 
 # Oracle connection parameters
-DB_USER = "system"
-DB_PASSWORD = "k6g1i34z" 
+DB_USER = "..."
+DB_PASSWORD = "..." 
 DB_DSN = "localhost/XE"
 
 def get_connection():
